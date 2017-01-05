@@ -9,6 +9,6 @@ import org.apache.commons.io.IOUtils
 
 object scalaDemo {
   def main(args: Array[String]) {
-     DataReader.writeFile("D:/software/New Text Document.txt")
+     DataReader.writeFile("D:/software/employee.csv")
   }
 }
