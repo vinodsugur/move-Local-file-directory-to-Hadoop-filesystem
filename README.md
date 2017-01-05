@@ -1,0 +1,2 @@
+# move-Local-file-directory-to-Hadoop-filesystem
+This is simple program in Scala which moves data from local filesystem to Hadoop. The local filesystem directory and all its child directory and its hierarchy are copied with content in Hadoop filesystem.The current code has hardcoded the Hadoop host location. This will be changed to configuration file in new version, similarly target directory is hardcoded in the code as "/user/hue/" .
